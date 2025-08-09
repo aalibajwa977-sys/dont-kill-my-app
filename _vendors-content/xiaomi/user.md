@@ -1,4 +1,5 @@
----
+---boring
+
 manufacturer: 
     - xiaomi
 
